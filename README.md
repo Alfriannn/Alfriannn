@@ -1,101 +1,88 @@
-<h1 align="center">Hi there! I'm Fahrul-Alfrian <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AD7F7&width=435&lines=Beginner+Programmer;Just+Starting+My+Coding+Journey;Learning+Step+by+Step;HTML+%7C+CSS+%7C+JavaScript+Basics" alt="Typing SVG" />
-  </a>
-</p>
+# 👋 Hi there! I'm Fahrul Alfrian Permana Jati
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Beginner+Developer;Always+Learning+New+Things;Frontend+%26+Backend+Explorer" alt="Typing SVG" />
 </div>
 
-## <img src="https://media.giphy.com/media/B9LqDsQGtOgJhwdPu5/giphy.gif" width="30"> My Coding Journey
+## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif">
+- 🌱 I'm currently learning **Web Development**
+- 👨‍💻 Passionate about creating beautiful and functional web applications
+- 🎯 Goal: To become a full-stack developer
+- 📚 Always eager to learn new technologies and improve my skills
 
-I'm a complete beginner who just started learning to code!
-
-- 🔰 **Total beginner**: Just took my first steps in coding
-- 🌱 **Learning**: Basic HTML, CSS, and JavaScript
-- 🤔 **Exploring**: Simple PHP and Firebase concepts
-- 🎯 **First Goal**: Create a simple personal webpage
-
-<br>
-
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> What I'm Learning
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-## <img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="30"> My Beginner Milestones
+## 🛠️ Technologies I'm Learning
 
 <div align="center">
-  <table>
-    <tr>
-      <td>✅ Created GitHub account</td>
-      <td>✅ Wrote first HTML page</td>
-    </tr>
-    <tr>
-      <td>✅ Learning CSS basics</td>
-      <td>🔄 Starting JavaScript</td>
-    </tr>
-    <tr>
-      <td>🔜 First simple website</td>
-      <td>🔜 Basic PHP usage</td>
-    </tr>
-  </table>
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="400"/>
-</div>
+## 📈 Learning Journey
 
-## <img src="https://media.giphy.com/media/LRwc2LdiY8a3QfSIMy/giphy.gif" width="30"> GitHub Stats
+```javascript
+const fahrul = {
+    currentFocus: "Web Development",
+    technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "Firebase", "PHP", "MySQL"],
+    currentlyLearning: "Frontend & Backend Development",
+    funFact: "I love turning ideas into code! 💻"
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfriannn&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats">
-</p>
+## 🌟 What I'm Working On
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="300"/>
-</div>
+- 🔭 Building projects with **HTML, CSS, and JavaScript**
+- 🌱 Exploring **Bootstrap** for responsive design
+- 🔥 Learning **Firebase** for backend services
+- 💻 Practicing **PHP** for server-side development
+- 🗄️ Learning **MySQL** for database management
 
-## <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30"> My Learning Resources
-
-<img align="left" width="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
-
-- 📚 Free online tutorials
-- 🎓 YouTube coding videos
-- 📝 Practice coding challenges
-- 👨‍💻 Building simple projects
-- 🔎 Learning from documentation
-
-<br clear="left"/>
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Connect With Me
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/alfriannn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <!-- More social links will be added as I create them -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfriannn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfriannn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="600"/>
-  <p><i>"Every expert was once a beginner."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfriannn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahruralfrian@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahrulalfrian?igsh=MWJzdXFkaGE3eXdvZQ==)
+
+</div>
+
+## 💭 Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </div>
 
 ---
-⭐️ From [alfriannn](https://github.com/alfriannn) - Just starting my coding adventure!<div align="center">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alfriannn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting my profile! 😊**
+  
+  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  
 </div>
