@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Web Development**
 - 👨‍💻 Passionate about creating beautiful and functional web applications
-- 🎯 Goal: To become a full-stack developer
+- 🎯 Goal: To become a web developer maybe :v
 - 📚 Always eager to learn new technologies and improve my skills
 
 ## 🛠️ Technologies I'm Learning
